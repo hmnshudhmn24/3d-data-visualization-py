@@ -33,6 +33,3 @@ A **3D surface plot** where the Z-values are calculated using the function:
 Z = sin(sqrt(X^2 + Y^2))
 ```
 The plot will be interactive, allowing rotation and zooming.
-
-## License
-This project is open-source and free to use for educational and personal purposes.
